@@ -6,7 +6,6 @@ This project explores how voter turnout in U.S. elections varies across differen
 - Voter turnout was significantly lower among younger adults (ages 18–24)
 - Adults 65+ showed consistently high turnout in both elections
 - Educational attainment strongly correlated with higher turnout
-- Racial disparities in turnout narrowed in 2018 compared to 2016
 
 ## 📁 Project Notebook
 - [`VoterTurnoutAnalysis.ipynb`](./VoterTurnoutAnalysis.ipynb)
@@ -18,7 +17,4 @@ This project explores how voter turnout in U.S. elections varies across differen
 
 ## 📚 Context
 This project was completed as part of **COGS 108: Data Science in Practice** at UC San Diego.
-
-## 👩‍💻 Author
-Suma Vintha
 
